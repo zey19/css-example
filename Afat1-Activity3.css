@@ -1,0 +1,41 @@
+.advertisement
+{
+	position: absolute; top: 10px; left: 20px;
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:black;
+}
+.header{
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.content{
+	margin-left: 10%;
+	margin-right: 40%;
+}
+.image img
+{
+	
+	float: left;	
+	width: 250px;
+	height: 250px;
+}
+
+.title{
+	position: absolute; top: 25px; left: 650px;
+}
+.main  {
+
+	margin-top: 150px;
+}
+.logo img
+{
+	position: absolute; top: 10px; left: 150px;
+}
+.head{
+	margin-left: 25%;
+}
